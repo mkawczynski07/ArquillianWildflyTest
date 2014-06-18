@@ -1,4 +1,4 @@
 ArquillianWildflyTest
 =====================
 
-Simple project for Wildfly integration tests
+Simple project for Wildfly integration tests.
